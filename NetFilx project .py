@@ -1,4 +1,9 @@
-#!/usr/bin/env python
+# This project involves the analysis of the Netflix dataset to gain insights into user preferences, content trends, and other relevant aspects.
+#Pandas: Used for data manipulation, cleaning, and exploratory data analysis.
+#NumPy: Employed for numerical operations on arrays and matrices.
+#Matplotlib:Utilized for creating static visualizations, such as line charts and histograms.
+#Seaborn: Applied for statistical data visualization, enhancing the aesthetics of the visualizations.
+
 # coding: utf-8
 
 # In[1]:
